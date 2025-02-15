@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **a web application to create and make giveaways in the Telegram**
 
-- 🌱 I’m currently learning **React, after that I'm going to focus on a Typescript, and after that I'm going to cover everything about creating my own unit-tests**
+- 🌱 I’m currently learning **React, Redux, after that I'm going to focus on a Typescript, and after that I'm going to cover everything about creating my own auto-tests**
 
-- 👯 I’m looking to collaborate on **some interesting big and small projects with others as a frontend developer**
+- 👯 I’m looking to collaborate on **some interesting big and small projects with others as a frontend developer. I'm very friendly and hungry for new projects to make and new technologies to learn.**
 
-- 🤝 I’m looking for help with **anything! I'm open to communicate with everybody and help whereever I need**
+- 🤝 I’m looking for help with **anything! I'm open to communicate with everybody!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lovelymercedanet](https://github.com/Lovelymercedanet)
 
