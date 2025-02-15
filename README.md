@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Daniil</h1>
-<h3 align="center">A frontend React developer from Orenburg, Russia</h3>
+<h2 align="left">Hi, I'm Daniil</h2>
+<h3 align="left">A frontend React developer from Orenburg, Russia</h3>
 
 🔭 I’m currently working on **a web application to create and make giveaways in the Telegram**
 
@@ -7,11 +7,13 @@
 
 👯 I’m looking to collaborate on **some interesting big and small projects with others as a frontend developer. I'm very friendly and hungry for new projects to make and new technologies to learn.**
 
-👨‍💻 All of my projects are available at [https://github.com/Lovelymercedanet](https://github.com/Lovelymercedanet)
+👨‍💻 All of my projects are available at [my github profile](https://github.com/Lovelymercedanet)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 Email - rukavishnikof@mail.ru
+</p>
+<p align="left">
 Telegram - @shoutoutbelgium
 </p>
 
