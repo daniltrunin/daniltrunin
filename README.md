@@ -9,12 +9,10 @@
 
 👨‍💻 All of my projects are available at [https://github.com/Lovelymercedanet](https://github.com/Lovelymercedanet)
 
-📫 How to reach me **Email - rukavishnikof@mail.ru, Telegram - @shoutoutbelgium**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mercedanet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mercedanet" height="30" width="40" /></a>
+Email - rukavishnikof@mail.ru
+Telegram - @shoutoutbelgium
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
