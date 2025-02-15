@@ -8,7 +8,7 @@
 ###  🔭 Current Projects
 - I'm working on **a movie library application called <a href="https://github.com/Lovelymercedanet/popcorn">Popcorn</a>**  
 
-###  Currently Learning  
+### 🌱 Currently Learning  
 - Deepening my knowledge of **React & Redux**  
 - Exploring **TypeScript**  
 - Planning to cover **automated testing**  
