@@ -6,7 +6,7 @@ Skilled in **React, JavaScript, and modern web technologies**
 
 Current Projects  
 — **A movie library application called <a href="https://github.com/daniltrunin/popcorn">Popcorn</a>**  
-— **Application exactly for running channels in Telegram called PrizeHub**
+— **Application exactly for running channels in Telegram called <a href="https://github.com/daniltrunin/prizehub-web-app-client">PrizeHub</a>**
 
 Currently Learning  
 — Deepening my knowledge of **React & Redux**  
