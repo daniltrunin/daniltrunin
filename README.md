@@ -3,10 +3,11 @@ A Frontend React Developer from Orenburg, Russia
 Looking for opportunities as a Frontend Software Developer**  
 Skilled in **React, JavaScript, and modern web technologies**  
 
-Current Projects
-- I'm working on **a movie library application called <a href="https://github.com/daniltrunin/popcorn">Popcorn</a>**  
+Current Projects  
+I'm working on **a movie library application called <a href="https://github.com/daniltrunin/popcorn">Popcorn</a>** and application exactly for running channels in Telegram  
 
 Currently Learning  
+
 Deepening my knowledge of **React & Redux**  
 Exploring **TypeScript**  
 Planning to cover **automated testing**  
