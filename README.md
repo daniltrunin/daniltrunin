@@ -4,25 +4,25 @@ A Frontend React Developer from Orenburg, Russia
 Looking for opportunities as a Frontend Software Developer  
 Skilled in **React, JavaScript, and modern web technologies**  
 
-Current Projects  
+**Current Projects**  
 — **A movie library application called <a href="https://github.com/daniltrunin/popcorn">Popcorn</a>**  
 — **Application exactly for running contests in Telegram called <a href="https://github.com/daniltrunin/prizehub-web-app-client">PrizeHub</a>**
 
-Currently Learning  
+**Currently Learning**  
 — Deepening my knowledge of **React & Redux**  
 — Exploring **TypeScript**  
 — Planning to cover **automated testing**  
 
-Collaborations  
+**Collaborations**  
 I'm open to collaborating on **exciting projects**.  
 I'm want to learn new technologies and work on both **small** and **large** projects!  
 
-Projects  
+**Projects**  
 Check out my work on **[GitHub](https://github.com/daniltrunin)**  
 
-Connect with Me  
-**Email**: rukavishnikof@mail.ru  
-**Telegram**: [@shoutoutbelgium](https://t.me/shoutoutbelgium)  
+**Connect with Me**  
+Email: rukavishnikof@mail.ru  
+Telegram: [@shoutoutbelgium](https://t.me/shoutoutbelgium)  
 
 Languages & Tools  
 
