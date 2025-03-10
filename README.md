@@ -5,30 +5,30 @@ Skilled in **React, JavaScript, and modern web technologies**
 
 ---
 
-# Current Projects
-- I'm working on **a movie library application called <a href="https://github.com/Lovelymercedanet/popcorn">Popcorn</a>**  
+Current Projects
+- I'm working on **a movie library application called <a href="https://github.com/daniltrunin/popcorn">Popcorn</a>**  
 
-# Currently Learning  
+Currently Learning  
 - Deepening my knowledge of **React & Redux**  
 - Exploring **TypeScript**  
 - Planning to cover **automated testing**  
 
-# Collaborations
+Collaborations
 I'm open to collaborating on **exciting projects**.  
 I'm want to learn new technologies and work on both **small** and **large** projects!  
 
-# Projects  
+Projects  
 Check out my work on **[GitHub](https://github.com/daniltrunin)**  
 
 ---
 
-# Connect with Me  
+Connect with Me  
 📧 **Email**: rukavishnikof@mail.ru  
 💬 **Telegram**: [@shoutoutbelgium](https://t.me/shoutoutbelgium)  
 
 ---
 
-# Languages & Tools  
+Languages & Tools  
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
