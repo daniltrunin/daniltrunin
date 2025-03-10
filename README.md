@@ -1,10 +1,11 @@
 Hi, I'm Daniil  
+
 A Frontend React Developer from Orenburg, Russia  
 Looking for opportunities as a Frontend Software Developer  
 Skilled in **React, JavaScript, and modern web technologies**  
 
 Current Projects  
-— **A movie library application called <a href="https://github.com/daniltrunin/popcorn">Popcorn</a>**
+— **A movie library application called <a href="https://github.com/daniltrunin/popcorn">Popcorn</a>**  
 — **Application exactly for running channels in Telegram called PrizeHub**
 
 Currently Learning  
