@@ -1,5 +1,5 @@
-Hi, I'm Daniil
-A Frontend React Developer from Orenburg, Russia
+Hi, I'm Daniil  
+A Frontend React Developer from Orenburg, Russia  
 Looking for opportunities as a Frontend Software Developer**  
 Skilled in **React, JavaScript, and modern web technologies**  
 
@@ -7,9 +7,9 @@ Current Projects
 - I'm working on **a movie library application called <a href="https://github.com/daniltrunin/popcorn">Popcorn</a>**  
 
 Currently Learning  
-- Deepening my knowledge of **React & Redux**  
-- Exploring **TypeScript**  
-- Planning to cover **automated testing**  
+Deepening my knowledge of **React & Redux**  
+Exploring **TypeScript**  
+Planning to cover **automated testing**  
 
 Collaborations
 I'm open to collaborating on **exciting projects**.  
@@ -19,8 +19,8 @@ Projects
 Check out my work on **[GitHub](https://github.com/daniltrunin)**  
 
 Connect with Me  
-📧 **Email**: rukavishnikof@mail.ru  
-💬 **Telegram**: [@shoutoutbelgium](https://t.me/shoutoutbelgium)  
+**Email**: rukavishnikof@mail.ru  
+**Telegram**: [@shoutoutbelgium](https://t.me/shoutoutbelgium)  
 
 Languages & Tools  
 
