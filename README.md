@@ -5,16 +5,16 @@ Looking for opportunities as a Frontend Software Developer
 Skilled in **React, JavaScript, and modern web technologies**  
 
 **Current Projects**  
-— **A movie library application called <a href="https://github.com/daniltrunin/popcorn">Popcorn</a>**  
-— **Application exactly for running contests in Telegram called <a href="https://github.com/daniltrunin/prizehub-web-app-client">PrizeHub</a>**
+— **A movie library application - <a href="https://github.com/daniltrunin/popcorn">Popcorn</a>**  
+— **Application for running contests in Telegram - <a href="https://github.com/daniltrunin/prizehub-web-app-client">PrizeHub</a>**
 
 **Currently Learning**  
-— Deepening my knowledge of **React & Redux**  
-— Exploring **TypeScript**  
-— Planning to cover **automated testing**  
+— Deepening my knowledge of **React and JavaScript**  
+— Exploring **Express JS, MongoDB Atlas**  
+— Planning to cover **automated testing, TypeScript, Redux**  
 
 **Collaborations**  
-I'm open to collaborating on **exciting projects**.  
+I'm open to collaborating on exciting projects.  
 I'm want to learn new technologies and work on both **small** and **large** projects!  
 
 **Projects**  
