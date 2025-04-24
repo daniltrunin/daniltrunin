@@ -1,6 +1,6 @@
 Hi! My name is Danil
 
-Fullstack JavaScript Developer (MongoDB, Express, React, Node.js, Telegram Bot API) from Orenburg, Russia
+Fullstack JavaScript Developer (MongoDB, Express, React, Node.js, Telegram Bot API) from Orenburg, Russia  
 Looking for opportunities as a Frontend Software Developer  
 Skilled in **React, JavaScript, and modern web technologies**  
 
