@@ -7,7 +7,7 @@ Skilled in **React, JavaScript, and modern web technologies**
 **Current Projects**  
 — **A movie library application based on React and Express - <a href="https://github.com/daniltrunin/popcorn">Popcorn</a>**  
 — **Application for running contests in Telegram - <a href="https://github.com/daniltrunin/prizehub-web-app-client">PrizeHub</a>**  
-— **Telegram Bot based on Node-telegram-bot-api library and Express** - <a href="https://github.com/daniltrunin/PVT_Report_bot">Report Bot</a>
+— **Application for accounting and reporting based on Node.js and Express.js** - <a href="https://github.com/daniltrunin/PVT_Report_bot">Report Bot</a>
 
 **Currently Learning**  
 — Deepening my knowledge of **React and JavaScript**  
