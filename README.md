@@ -23,7 +23,7 @@ Check out my work on **[GitHub](https://github.com/daniltrunin)**
 Email: rukavishnikof@mail.ru  
 Telegram: [@shoutoutbelgium](https://t.me/shoutoutbelgium)  
 
-**Languages & Tools**
+**Languages & Tools**  
 — Basics (HTML, CSS, JavaScript, Node JS)  
 — React (Hooks, Form, Context API, SSR, Routes)  
 — Redux (Redux-Saga, Redux-Epic)  
