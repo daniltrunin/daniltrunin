@@ -1,4 +1,5 @@
 Fullstack JavaScript Developer from Orenburg, Russia  
+Over 1 year of experience as a software engineer in the iGaming industry.
 Looking for opportunities as a Frontend Software Developer  
 Skilled in **React, JavaScript, Express and modern web technologies**  
 
