@@ -5,8 +5,11 @@ Skilled in **React, JavaScript, Express and modern web technologies**
 
 **Current Projects**  
 — **A movie library application based on React and Express - <a href="https://github.com/daniltrunin/popcorn">Popcorn</a>**  
-— **Application for accounting and reporting based on Node.js and Express.js** - <a href="https://github.com/daniltrunin/PVT_Report_bot">Report Bot</a>  
-— **Application for running contests in Telegram - <a href="https://github.com/daniltrunin/prizehub-web-app-client">PrizeHub</a>**   
+— **Chat application for online communication between a group of users based on React** - <a href="https://github.com/daniltrunin/chatify-client">Chatify</a>  
+— **An application for finding and storing books and getting basic information about it based on Vanilla JS** - <a href="https://github.com/daniltrunin/book-app">Book App</a>  
+— **Habit tracker made with Vanilla JS** - <a href="https://github.com/daniltrunin/habbit">Habbit</a>  
+— **Random user generator made with Vue 3 and Pinia** - <a href="https://github.com/daniltrunin/random-user-generator">Random User Generator</a>  
+— **World weather forecast application made with Vue 3 and Pinia** - <a href="https://github.com/daniltrunin/vue-weather">Vue Weather</a>  
 
 **Currently Learning**  
 — Deepening my knowledge of **React, Express JS, MongoDB, Redux, Node JS**  
