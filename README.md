@@ -7,8 +7,9 @@ Looking for opportunities as a Frontend Software Developer
 Email: rukavishnikof@mail.ru  
 Telegram: [@shoutoutbelgium](https://t.me/shoutoutbelgium)  
 
-**Languages & Tools**  
-— React and Next JS (Hooks, Form, Context API, SSR, Routes)  
-— Redux (Redux-Saga, Redux-Epic)  
-— Express JS, MongoDB, Mongoose  
-— Tailwind, WebSocket, Rollup  
+**Tools**  
+— Frontend: React (Hooks, Context API), Next.js (App Router, Server Components, API Routes)  
+— Styling: Tailwind CSS, Panda CSS, SCSS/Sass(mixins, functions, partials)    
+— State Management: Redux (Redux-Saga, Redux-Epic)  
+— Backend: Express.js, MongoDB, Mongoose, WebSocket  
+— Build: Rollup  
